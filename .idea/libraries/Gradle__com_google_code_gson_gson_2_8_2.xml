@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.code.gson:gson:2.8.2">
+    <CLASSES>
+      <root url="jar://$ANDROID_SDK_ROOT$/manual-offline-m2/m2repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abdavid92.persistentlog">
+
+    <application>
+        <provider
+            android:name=".PersistentLogProvider"
+            android:authorities="${applicationId}.com.abdavid.persistentlog"
+            android:enabled="true"
+            android:exported="false"/>
+    </application>
+
+</manifest>

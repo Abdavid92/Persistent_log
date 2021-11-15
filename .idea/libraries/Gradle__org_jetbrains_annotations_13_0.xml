@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains:annotations:13.0">
+    <CLASSES>
+      <root url="jar://$ANDROID_SDK_ROOT$/manual-offline-m2/android-gradle-plugin-3.2.1/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

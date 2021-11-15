@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: junit:junit:4.13.2">
+    <CLASSES>
+      <root url="jar://$ANDROID_SDK_ROOT$/manual-offline-m2/m2repository/junit/junit/4.13.2/junit-4.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$ANDROID_SDK_ROOT$/manual-offline-m2/m2repository/junit/junit/4.13.2/junit-4.13.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$ANDROID_SDK_ROOT$/manual-offline-m2/m2repository/junit/junit/4.13.2/junit-4.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
