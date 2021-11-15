@@ -9,16 +9,17 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+      <configuration version="4" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false">
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/../../../library/build/tmp/kotlin-classes/release" />
-          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-3/70557a45d46a200078a4f525de3d202c/transformed/jetified-room-ktx-2.3.0-api.jar;C:/Users/Abel/.gradle/caches/transforms-3/3b07313ee822158dca3569320c3a14fb/transformed/room-runtime-2.3.0-api.jar;E:/Programas/android-sdk/manual-offline-m2/m2repository/androidx/room/room-common/2.3.0/room-common-2.3.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/7160e68a4bf0e4ccd5ec2641f5a6df22/transformed/sqlite-framework-2.1.0-api.jar;C:/Users/Abel/.gradle/caches/transforms-3/580dd38b3abdd19c87258e04c40d631e/transformed/sqlite-2.1.0-api.jar;E:/Programas/android-sdk/manual-offline-m2/m2repository/androidx/annotation/annotation/1.2.0/annotation-1.2.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/5e7e7f450007a599425ab49e93c047ee/transformed/jetified-kotlinx-coroutines-android-1.5.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/04c3b93fa0417964a08ebb85e20d1e9c/transformed/jetified-kotlinx-coroutines-core-jvm-1.5.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/fa276bd5a47f1c75a16583966df87fa4/transformed/jetified-kotlin-stdlib-jdk8-1.5.31.jar;C:/Users/Abel/.gradle/caches/transforms-3/7a155f7ad79b8c08399e9b6ffe48c0ec/transformed/jetified-gson-2.8.2.jar;C:/Users/Abel/.gradle/caches/transforms-3/a091601e2cda45b80671eacef782b9c5/transformed/jetified-kotlin-stdlib-jdk7-1.5.31.jar;C:/Users/Abel/.gradle/caches/transforms-3/ea500ad75c946857c9f06b920256407e/transformed/jetified-kotlin-stdlib-1.5.31.jar;C:/Users/Abel/.gradle/caches/transforms-3/1aa0e9bbdf73b7db9470d823f949c774/transformed/jetified-annotations-13.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/09e68e70e1af8b3f6b4a4c74110a7c36/transformed/jetified-kotlin-stdlib-common-1.5.31.jar;E:/Programas/android-sdk/platforms/android-30/android.jar;E:/Programas/android-sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="classpath" value="$MODULE_DIR$/../../../library/build/intermediates/compile_r_class_jar/release/R.jar;C:/Users/Abel/.gradle/caches/transforms-3/70557a45d46a200078a4f525de3d202c/transformed/jetified-room-ktx-2.3.0-api.jar;C:/Users/Abel/.gradle/caches/transforms-3/3b07313ee822158dca3569320c3a14fb/transformed/room-runtime-2.3.0-api.jar;E:/Programas/android-sdk/manual-offline-m2/m2repository/androidx/room/room-common/2.3.0/room-common-2.3.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/7160e68a4bf0e4ccd5ec2641f5a6df22/transformed/sqlite-framework-2.1.0-api.jar;C:/Users/Abel/.gradle/caches/transforms-3/580dd38b3abdd19c87258e04c40d631e/transformed/sqlite-2.1.0-api.jar;E:/Programas/android-sdk/manual-offline-m2/m2repository/androidx/annotation/annotation/1.2.0/annotation-1.2.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/5e7e7f450007a599425ab49e93c047ee/transformed/jetified-kotlinx-coroutines-android-1.5.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/04c3b93fa0417964a08ebb85e20d1e9c/transformed/jetified-kotlinx-coroutines-core-jvm-1.5.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/fa276bd5a47f1c75a16583966df87fa4/transformed/jetified-kotlin-stdlib-jdk8-1.5.31.jar;C:/Users/Abel/.gradle/caches/transforms-3/7a155f7ad79b8c08399e9b6ffe48c0ec/transformed/jetified-gson-2.8.2.jar;C:/Users/Abel/.gradle/caches/transforms-3/a091601e2cda45b80671eacef782b9c5/transformed/jetified-kotlin-stdlib-jdk7-1.5.31.jar;C:/Users/Abel/.gradle/caches/transforms-3/ea500ad75c946857c9f06b920256407e/transformed/jetified-kotlin-stdlib-1.5.31.jar;C:/Users/Abel/.gradle/caches/transforms-3/1aa0e9bbdf73b7db9470d823f949c774/transformed/jetified-annotations-13.0.jar;C:/Users/Abel/.gradle/caches/transforms-3/09e68e70e1af8b3f6b4a4c74110a7c36/transformed/jetified-kotlin-stdlib-common-1.5.31.jar;E:/Programas/android-sdk/platforms/android-30/android.jar;E:/Programas/android-sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
           <option name="noStdlib" value="true" />
           <option name="noReflect" value="true" />
           <option name="moduleName" value="persistentlog-1.0_release" />
+          <option name="jvmTarget" value="11" />
           <option name="languageVersion" value="1.5" />
           <option name="apiVersion" value="1.5" />
           <option name="pluginOptions">
@@ -60,7 +61,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
     <output url="file://$MODULE_DIR$/../../../library/build/intermediates/javac/release/classes" />
     <output-test url="file://$MODULE_DIR$/../../../library/build/intermediates/javac/releaseUnitTest/classes" />
     <exclude-output />
