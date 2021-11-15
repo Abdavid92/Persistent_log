@@ -12,6 +12,7 @@ android {
         targetSdk 30
         versionCode 1
         versionName "1.0"
+        archivesBaseName = "persistentlog-$versionName"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
